@@ -46,5 +46,4 @@ CS Student @ Tel Aviv University (School of CS & AI) · Systems · ML/NLP · Sof
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=odeliyach&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odeliyach&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=odeliyach&theme=tokyonight)](https://git.io/streak-stats)
