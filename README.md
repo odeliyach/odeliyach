@@ -44,6 +44,8 @@ CS Student @ Tel Aviv University (School of CS & AI) · Systems · ML/NLP · Sof
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=odeliyach&theme=tokyonight)](https://git.io/streak-stats)
