@@ -4,8 +4,8 @@ CS Student @ Tel Aviv University (School of CS & AI) · Systems · ML/NLP · Sof
 
 ## About Me
 - 🎓 Computer Science student at Tel Aviv University
-- 🔬 NLP Research — fine-tuned DistilBERT for toxic language detection, co-authored academic paper
-- ⚙️ Love low-level systems programming in C — shell, kernel module, TCP server
+- 🔬 NLP Research - fine-tuned DistilBERT for toxic language detection, co-authored academic paper
+- ⚙️ Love low-level systems programming in C - shell, kernel module, TCP server
 - 🤖 Built a neural network inference engine from scratch in C (258x faster than PyTorch on small networks)
 - 📱 Built a full Android e-commerce app independently in high school
 
