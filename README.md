@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave banner via capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=150&section=header&text=Odeliya%20Charitonova&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=CS%20Student%20%40%20Tel%20Aviv%20University%20(School%20of%20CS%20%26%20AI)%20%C2%B7%20Systems%20%C2%B7%20ML%2FNLP%20%C2%B7%20Software%20Engineering&descAlignY=62&descSize=13" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=150&section=header&text=Odeliya%20Charitonova&fontSize=42&fontColor=fff&fontAlignY=40&desc=CS%20Student%20%40%20Tel%20Aviv%20University%20%7C%20Systems%20%C2%B7%20ML%2FNLP%20%C2%B7%20Software%20Engineering&descAlignY=62&descSize=14" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_URL)
 [![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat&logoColor=black)](https://huggingface.co/odeliyach)
