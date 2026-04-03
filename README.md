@@ -1,3 +1,13 @@
+<div align="center">
+
+<!-- Wave banner via capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=150&section=header&text=Odeliya%20Charitonova&fontSize=42&fontColor=fff&fontAlignY=40&desc=CS%20Student%20%40%20Tel%20Aviv%20University%20%7C%20Systems%20%C2%B7%20ML%2FNLP%20%C2%B7%20Software%20Engineering&descAlignY=62&descSize=14" width="100%" />
+</div>
+
+# Hi, I'm Odeliya 👋
+
+CS Student @ Tel Aviv University (School of CS & AI) · Systems · ML/NLP · Software Engineering
+
 ## About Me
 - 🎓 Computer Science student at Tel Aviv University
 - 🔬 NLP Research - fine-tuned DistilBERT for toxic language detection, co-authored academic paper
