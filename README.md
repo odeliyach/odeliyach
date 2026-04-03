@@ -3,9 +3,11 @@
 <!-- Wave banner via capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,24&height=150&section=header&text=Odeliya%20Charitonova&fontSize=42&fontColor=fff&fontAlignY=40&desc=CS%20Student%20%40%20Tel%20Aviv%20University%20%7C%20Systems%20%C2%B7%20ML%2FNLP%20%C2%B7%20Software%20Engineering&descAlignY=62&descSize=14" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_URL)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat&logoColor=black)](https://huggingface.co/odeliyach)
-[![Research Paper](https://img.shields.io/badge/📄%20Paper-Apr%202026-c084fc?style=flat)](YOUR_PAPER_LINK)
+<!-- ✏️ Replace YOUR-LINKEDIN-SLUG with your actual LinkedIn slug e.g. odeliya-charitonova -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-SLUG)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=000)](https://huggingface.co/odeliyach)
+<!-- ✏️ Replace YOUR-PAPER-URL with your actual paper link (arXiv / HF Spaces / etc.) -->
+[![Research Paper](https://img.shields.io/badge/Paper-Apr_2026-c084fc?style=flat&logo=readthedocs&logoColor=white)](https://YOUR-PAPER-URL)
 
 </div>
 
@@ -68,8 +70,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=odeliyach&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odeliyach&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=odeliyach&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -79,23 +80,23 @@
 ### 🧠 ML & Research
 | Project | Description | Highlights |
 |---|---|---|
-| [AlgoShield](https://github.com/odeliyach/AlgoShield) | Research-grade algospeak & toxicity detection · co-authored paper | F1=66.7% · +40pt Recall · 350+ HF downloads |
-| [AlgoScope](https://github.com/odeliyach/Algoscope) | Real-time Bluesky toxicity dashboard | 50x latency reduction · Docker · CI/CD |
-| [Clustering-Algorithms-Lab](https://github.com/odeliyach/Clustering-Algorithms-Lab) | K-Means, K-Means++, SymNMF with hybrid Python-C | 5.5x speedup |
+| [AlgoShield](https://github.com/odeliyach/AlgoShield) | Research-grade algospeak & toxicity detection · co-authored paper | ![](https://img.shields.io/badge/F1-66.7%25-success?style=flat-square) ![](https://img.shields.io/badge/%2B40pt_Recall-blue?style=flat-square) ![](https://img.shields.io/badge/350%2B_HF-FFD21E?style=flat-square) |
+| [AlgoScope](https://github.com/odeliyach/Algoscope) | Real-time Bluesky toxicity dashboard | ![](https://img.shields.io/badge/50x_latency_↓-brightgreen?style=flat-square) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| [Clustering-Algorithms-Lab](https://github.com/odeliyach/Clustering-Algorithms-Lab) | K-Means, K-Means++, SymNMF — hybrid Python-C | ![](https://img.shields.io/badge/5.5x_speedup-orange?style=flat-square) |
 
 ### ⚙️ Systems & Infrastructure
 | Project | Description | Highlights |
 |---|---|---|
-| [tiny-ml-runtime](https://github.com/odeliyach/tiny-ml-runtime) | Neural net inference engine in pure C | **258x faster than PyTorch** · SIMD-friendly |
-| [Linux-System-Programming](https://github.com/odeliyach/Linux-System-Programming) | Mini shell + thread-safe queue | ~400K items/sec · POSIX signals |
-| [Kernel-Development-Lab](https://github.com/odeliyach/Kernel-Development-Lab) | Linux kernel character device driver | IOCTL · copy_from/to_user · atomic ops |
-| [Network-Infrastructure-C](https://github.com/odeliyach/Network-Infrastructure-C) | TCP server/client with Docker | Integration tests · Makefile |
+| [tiny-ml-runtime](https://github.com/odeliyach/tiny-ml-runtime) | Neural net inference engine in pure C | ![](https://img.shields.io/badge/258x_faster_than_PyTorch-EE4C2C?style=flat-square) |
+| [Linux-System-Programming](https://github.com/odeliyach/Linux-System-Programming) | Mini shell + thread-safe queue | ![](https://img.shields.io/badge/~400K_items%2Fsec-success?style=flat-square) |
+| [Kernel-Development-Lab](https://github.com/odeliyach/Kernel-Development-Lab) | Linux kernel character device driver | ![](https://img.shields.io/badge/IOCTL-555?style=flat-square) ![](https://img.shields.io/badge/atomic_ops-555?style=flat-square) |
+| [Network-Infrastructure-C](https://github.com/odeliyach/Network-Infrastructure-C) | TCP server/client with Docker | ![](https://img.shields.io/badge/Integration_tests-blue?style=flat-square) |
 
 ### 🤖 Automation & Full-Stack
 | Project | Description | Stack |
 |---|---|---|
-| [CareerOS](https://github.com/odeliyach/CareerOS) | AI-powered job search automation | n8n · Groq LLaMA · GitHub API |
-| [my-project-template](https://github.com/odeliyach/my-project-template) | Professional GitHub template repo | Makefile · Docker · CI/CD |
+| [CareerOS](https://github.com/odeliyach/CareerOS) | AI-powered job search automation | ![](https://img.shields.io/badge/n8n-EA4B71?style=flat-square) ![](https://img.shields.io/badge/Groq_LLaMA-000?style=flat-square) |
+| [my-project-template](https://github.com/odeliyach/my-project-template) | Professional GitHub template repo | ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/CI%2FCD-success?style=flat-square) |
 
 ---
 
