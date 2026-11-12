@@ -13,10 +13,6 @@
   <a href="https://huggingface.co/spaces/odeliyach/AlgoScope">AlgoScope live demo</a>
 </p>
 
-<p align="center">
- I build across the stack, from low-level C and Linux kernel drivers to fine-tuned Transformers, FastAPI services, and automated LLM workflows.
-</p>
-
 <img src="assets/sec_stack.svg" alt="Stack" width="100%">
 
 <div align="center">
